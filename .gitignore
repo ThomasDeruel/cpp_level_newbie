@@ -1,3 +1,4 @@
 .vscode
 project-*/.vscode
 project-*/main
+cmake
