@@ -1,6 +1,6 @@
 # What I learned ?
 
-- Create a custom shortcut with script
+- Create a custom shortcut with script (snippet / extraits)
 
 ```json
 {
