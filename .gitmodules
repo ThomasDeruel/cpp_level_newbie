@@ -4,3 +4,6 @@
 [submodule "project-5"]
 	path = project-5
 	url = https://github.com/ThomasDeruel/adventure_cpp
+[submodule "project-6-tic-tac-toe"]
+	path = project-6-tic-tac-toe
+	url = https://github.com/ThomasDeruel/_cpp-tic-tac-toe
